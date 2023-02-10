@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/alireza-niksejel/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Alireza-Niksejel">
+  <img src="https://img.shields.io/badge/ResearchGate-cyan?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=alirezaniki&style=flat-square&color=blue" alt=""/>
   <h1>
