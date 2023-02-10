@@ -18,7 +18,7 @@
 
 I am a Ph.D. candidate at Dalhousie University from Iran :iran:. My current research work and intetrests are:
 
-- Application of Deep-Learning on Ocean Bottom Seismometer (OBS) data
+- Deep-Learning based phase picking on Ocean Bottom Seismometer (OBS) data
 - Earthquake Location
 - Seismic Imaging
 - Seismic Processing
