@@ -26,7 +26,7 @@ I am a Ph.D. candidate at Dalhousie University from Iran :iran:. My current rese
 - Seismic Imaging
 - Seismic Processing
 
-I am constantly trying to develop my skills in data science and DL techniques to catch up with the ever-accelerating train of science 😉 
+I am constantly developing my skills in data science and DL techniques to catch up with the ever-accelerating train of science
 
 ---
 
