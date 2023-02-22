@@ -35,7 +35,9 @@ I am constantly developing my skills in data science and DL techniques to catch 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="50" height="50"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="50" height="50"/>&nbsp; 
+  <img src="https://pyrocko.org/docs/current/_images/pyrocko_shadow.png" title="Pyrocko" alt="Pyrocko" width="50" height="50"/>&nbsp; 
 </div>
 
 ---
