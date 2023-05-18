@@ -16,9 +16,7 @@
 </div>
 
 ---
-
 ### About Him:
-
 --
 
 Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His current research and main intetrests are:
@@ -29,9 +27,7 @@ Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His curre
 - Seismic Data Processing
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
-
 --
 
 <div>
@@ -44,9 +40,7 @@ Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His curre
 </div>
 
 ---
-
 ### Stats :
-
 --
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaniki)](https://github.com/anuraghazra/github-readme-stats)
