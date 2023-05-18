@@ -17,6 +17,10 @@
 
 ---
 
+### About Him:
+
+--
+
 Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His current research and main intetrests are:
 
 - Deep-Learning seismic phase picking on Ocean Bottom Seismometer (OBS) data
@@ -27,6 +31,8 @@ Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His curre
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+--
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
@@ -39,6 +45,8 @@ Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His curre
 
 ---
 
-### My Stats :
+### Stats :
+
+--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaniki)](https://github.com/anuraghazra/github-readme-stats)
