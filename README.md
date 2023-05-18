@@ -17,9 +17,7 @@
 
 ---
 
-**About me**:
-
-I am a Ph.D. candidate at Dalhousie University from Iran :iran:. My current research and main intetrests are:
+Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His current research and main intetrests are:
 
 - Deep-Learning seismic phase picking on Ocean Bottom Seismometer (OBS) data
 - Earthquake Location Algorithms
