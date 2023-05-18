@@ -17,7 +17,7 @@
 
 ---
 
-:man_student:  About me:
+**About me**:
 
 I am a Ph.D. candidate at Dalhousie University from Iran :iran:. My current research and main intetrests are:
 
