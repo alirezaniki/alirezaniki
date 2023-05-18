@@ -41,6 +41,6 @@ I am a Ph.D. candidate at Dalhousie University from Iran :iran:. My current rese
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaniki)](https://github.com/anuraghazra/github-readme-stats)
