@@ -36,8 +36,6 @@
   <img src="https://avatars.githubusercontent.com/u/1701221?s=200&v=4" title="Obspy" alt="Obspy" width="50" height="50"/>&nbsp;
 </div>
 
----
-### Stats :
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaniki)](https://github.com/anuraghazra/github-readme-stats)
