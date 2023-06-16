@@ -16,15 +16,12 @@
 </div>
 
 ---
-### About Him:
+### My Research Focus:
 
-
-Alireza is a Ph.D. candidate at Dalhousie University from Iran :iran:. His current research and main intetrests are:
-
-- Deep-Learning seismic phase picking on Ocean Bottom Seismometer (OBS) data
-- Earthquake Location Algorithms
+- Deep-Learning
+- Earthquake Location
 - Seismic Imaging
-- Seismic Data Processing
+- Data Processing
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
