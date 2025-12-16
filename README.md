@@ -1,57 +1,27 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
+# 💫 About Me:
+Research Focus:<br>Deep Learning Applications<br>Earthquake Location<br>Seismic Tomography<br>Seismic Signal Processing<br><br>I am currently one year behind my anticipated PhD graduation timeline and am therefore actively seeking postdoctoral or industry research positions where I can apply my expertise while completing my degree requirements.
 
-  <h1>
-    Welcome to my GitHub page!  
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/alireza-niksejel/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.researchgate.net/profile/Alireza-Niksejel" target="_blank">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-    </a>
-    <a href="mailto:alireza.niksejel@dal.ca">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alireza-niksejel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.niksejel@dal.ca) 
 
-  <img src="https://komarev.com/ghpvc/?username=alirezaniki&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alirezaniki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alirezaniki&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaniki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alirezaniki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 About Me  
-🔬 **Research Focus:**  
-- 🤖 Deep Learning  
-- 🌍 Earthquake Location  
-- 📡 Seismic Imaging  
-- 📊 Data Processing  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alirezaniki&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=alirezaniki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Languages & Tools  
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezaniki&show_icons=true&theme=dark&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaniki&theme=dark" height="150"/>
-</div>
-
----
-
-## ✨ Fun Fact  
-🎸 When I'm not researching, I enjoy playing music and exploring AI in creative arts!  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
