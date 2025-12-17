@@ -1,5 +1,5 @@
 # 💫 About Me:
-Research Focus:<br>Deep Learning Applications<br>Earthquake Location<br>Seismic Tomography<br>Seismic Signal Processing<br><br>I am currently one year behind my anticipated PhD graduation timeline and am therefore actively seeking postdoctoral or industry research positions where I can apply my expertise while completing my degree requirements.
+Research Focus:<br>Deep Learning Applications<br>Earthquake Location<br>Seismic Tomography<br>Seismic Signal Processing<br><br>I am currently one year behind my anticipated PhD graduation timeline (Oct. 2026) and am therefore actively seeking postdoctoral or industry research positions where I can apply my expertise while completing my degree requirements.
 
 
 ## 🌐 Socials:
